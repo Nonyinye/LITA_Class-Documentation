@@ -2,6 +2,36 @@
 
 ## Project Title: Sales Transaction 
 
+Project Overview For Sales Data
+
+Project Overview For Customer Subcription Data
+
+Column Descriptions For Sales Data
+
+Column Descriptions For Customer Data
+
+Data Source
+
+Tools Used
+
+Data Cleaning and Preparations
+
+Exploratory Data Analysis
+
+For Sales Data
+
+For Customer Data
+
+Data Analysis
+
+Data Visualization
+
+My Result
+
+For Sales Data
+
+For Customer Data
+
 ### Project Overview
 This dataset captures transactional sales data, providing a detailed view of customer orders, including product, region, and revenue information. It is ideal for analyzing sales trends, and regional performance, enabling insights into the drivers of revenue and high-demand products.
 
@@ -45,8 +75,7 @@ EDA involved the exploratory of the Sales Data to answer some questions about th
 ### Data Analysis
 This is where some basic lines of code or queries or even some of the DAX expressions used during data analysis were included;
 
-select *
-From Table Name = SalesData
+```select * From Table Name = SalesData```
 
 ### Data Visualization
 
