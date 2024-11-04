@@ -2,7 +2,7 @@
 
 ## Project Title: Sales Transaction 
 
-* [Project Overview](projectoverview)
+* [Project Overview](ProjectOverview)
 
 * [Column Descriptions](columndescriptions)
 
